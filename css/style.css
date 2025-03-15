@@ -6,8 +6,17 @@
     max-width: 900px;
     margin:0 auto;
 }
+.header {
+    background-color: #CF5CD7;
+}
+.header_container {
+    padding: 20px 0;
+}
 .nav__list {
     display: flex;
+    list-style:  none;
+    justify-content: center;
+    gap: 30px;
 }
 .about {
 background-color: #CF5CD7;
